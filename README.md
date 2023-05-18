@@ -9,6 +9,11 @@ Analyze data from Chainlink's Economics 2.0 initiative:
 
 ## Milestones
 
+### Part 0
+
+- [ ] Clone project
+- [ ] Make new branch
+
 ### Part 1
 
 - [ ] Install Python 3.10 & [Poetry](https://python-poetry.org/docs/#installation)
