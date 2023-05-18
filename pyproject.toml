@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "economics-v2-0"
+version = "0.1.0"
+description = "Analyze data from Chainlink's Economics 2.0 initiative"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "economics_v2"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.0.1"
+selenium = "^4.9.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
