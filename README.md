@@ -16,7 +16,7 @@ Analyze data from Chainlink's Economics 2.0 initiative:
 
 ### Part 1
 
-- [ ] Install Python 3.10 & [Poetry](https://python-poetry.org/docs/#installation)
+- [v] Install Python 3.10 & [Poetry](https://python-poetry.org/docs/#installation)
 - [ ] Use Poetry to install dependencies
 - [ ] Create a `main.py` file
 - [ ] Get HTML from https://chain.link/economics/build-program
